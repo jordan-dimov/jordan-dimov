@@ -2,7 +2,7 @@
 
 ### My name is Jordan
 
-I'm a UK based software engineer passionate about automating business processes in all sorts of different industries. 
+I'm a UK based software engineer passionate about automating business processes in various industries. 
 
 You can typically find me on LinkedIn - https://www.linkedin.com/in/jdimov/ (Once you stop thinking of LinkedIn as a career site, it's actually quite nice!)
 
@@ -10,12 +10,13 @@ I've been a fan of Python for over 20 years now and, while I often get excited a
 
 ### Ask me about...
 
-- Python. Haha. Or Django. 
-- AWS (my favourite services are Fargate and Aurora)
+- Python. Haha. Or FastAPI. Or Django. 
+- AWS (my favourite services are ECS / Fargate, Lambda and RDS / Aurora)
 - PostgreSQL
-- Accounting software. I don't like any of the existing accounting software offerings, so I built my own. It's now used by accounting forms preparing and submitting the accounts for thousands of UK businesses. 
+- Accounting software. I don't like any of the existing accounting software offerings, so I built my own. It's now HMRC approved and used by accounting firms handling the accounts for thousands of UK businesses. 
 - Any other kind of business software. 
-- The Mandarin language
+- The Mandarin language (I am a student)
+- The Arabic language (also a student)
 - The purpose of life
 
 <!--
