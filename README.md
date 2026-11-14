@@ -16,6 +16,7 @@ AI and platform architect in London. I build trading and business systems, and I
 - **Chameleon Technology**: platform architect for a smart-meter data platform that scores social housing for damp and mould risk. Database cut by 87% and cloud bill halved, ready for millions of devices.
 - **Lantern.ai**: led engineering on an AI platform for private equity: LLM extraction of financial metrics from fund and portfolio documents, validated and traceable before a finance team relies on them.
 - **Schroders**: automated the daily processing of millions of ESG metrics across every portfolio for the Investment Technology team, with serverless pipelines on AWS, Snowflake and Denodo.
+- **Tractable**: at a computer-vision AI company for insurance claims, set code-quality, test-coverage and security standards across dozens of codebases, and automated them for every team.
 - **Cigital**: founding member of the Software Security Group, securing software for Visa, MasterCard, Citigroup and the US Federal Reserve.
 
 [LinkedIn](https://www.linkedin.com/in/jdimov/) · [A115](https://a115.co.uk/)
